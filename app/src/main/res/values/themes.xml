@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QRScanner.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000000</item>
+    </style>
+
+    <!-- Light Theme for Translator -->
+    <style name="Theme.QRScanner.Light" parent="Base.Theme.QRScanner.Light">
+        <!-- Customize your Translator light theme here if needed -->
+    </style>
+
+</resources>
